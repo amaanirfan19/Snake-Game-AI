@@ -19,7 +19,7 @@ The AI agent is implemented using a neural network that predicts the optimal mov
 To train the AI agent, simply run the `agent.py` script:
 
 ```python
-python game.py
+python agent.py
 ```
 
 ---
